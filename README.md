@@ -7,10 +7,10 @@
 
 ##
 
-<div>
+<div align="center">
   <a href="https://www.linkedin.com/in/asafedainez/" target="_blank">
-  <img src="https://github-readme-stats.vercel.app/api?username=asafedainez&show_icons=true&theme=dark&count_private=true&include_all_commits=true">
-  <img height="195em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=asafedainez&layout=demo&theme=dark">
+  <img width="450em" src="https://github-readme-stats.vercel.app/api?username=asafedainez&show_icons=true&theme=dark&count_private=true&include_all_commits=true">
+  <img height="178em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=asafedainez&layout=demo&theme=dark">
 </div>
   
 <div style="display: inline_block" align="center"><br>
