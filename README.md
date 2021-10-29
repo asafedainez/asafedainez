@@ -32,12 +32,13 @@
   
 <div align="center">
   <a href="https://www.linkedin.com/in/asafedainez/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href="mailto:asafe.sousa@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
-  <a href="mailto:asafedainez@outlook.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white">
-  <a href="https://www.instagram.com/asafedainez/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
+  <a href="mailto:asafe.sousa@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a> 
+  <a href="mailto:asafedainez@outlook.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"></a> 
+  <a href="https://www.instagram.com/asafedainez/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
   
+  <a href="https://www.linkedin.com/in/asafedainez/" target="_blank">
+    
   ![Snake animation](https://github.com/asafedainez/asafedainez/blob/output/github-contribution-grid-snake.svg)
 </div>
-  
   
   
