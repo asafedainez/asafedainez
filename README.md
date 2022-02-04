@@ -1,7 +1,6 @@
 # Hey! Eu sou o [Asafe Dainez](https://www.linkedin.com/in/asafedainez/)
 
 
-- :man_technologist: Atualmente trabalho com desenvolvimento Full Stack na [Sofista Learning](https://www.sofista.com.br/)
 - :books: Estou estudando desenvolvimento web na [Trybe](https://www.betrybe.com/) :rocket:
 - :mortar_board: Sou formado em Engenharia da Computação
 
