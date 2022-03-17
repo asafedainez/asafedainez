@@ -18,13 +18,9 @@
   <img align="center" height="50" width="50" src="https://img.icons8.com/color/48/000000/css3.png">
   <img align="center" height="50" width="50" src="https://img.icons8.com/color/48/000000/bootstrap.png">
   <img align="center" height="50" width="50" src="https://img.icons8.com/color/48/000000/javascript--v1.png">
-  <img align="center" height="50" width="50" src="https://img.icons8.com/color/48/000000/php.png">
-  <img align="center" height="50" width="50" src="https://img.icons8.com/color/48/000000/python--v1.png">
   <img align="center" height="50" width="50" src="https://img.icons8.com/color/48/000000/mysql-logo.png">
-  <img align="center" height="50" width="50" src="https://img.icons8.com/color/48/000000/wordpress.png">
   <img align="center" height="50" width="50" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png">
   <img align="center" height="50" width="50" src="https://img.icons8.com/color/48/000000/git.png">
-  <img align="center" height="50" width="50" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png">
 </div>
 
   ##
