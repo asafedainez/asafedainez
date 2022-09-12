@@ -33,7 +33,7 @@
   
   <a href="https://www.linkedin.com/in/asafedainez/" target="_blank">
     
-  ![Snake animation](https://github.com/asafedainez/asafedainez/blob/output/github-contribution-grid-snake.svg)
+  <!-- ![Snake animation](https://github.com/asafedainez/asafedainez/blob/output/github-contribution-grid-snake.svg) -->
 </div>
   
   
