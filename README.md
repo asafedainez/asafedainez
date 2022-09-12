@@ -29,7 +29,7 @@
   <img align="center" height="50" width="50" src="https://avatars.githubusercontent.com/u/17219288?s=200&v=4">
   <img align="center" height="50" width="50" src="https://pics.freeicons.io/uploads/icons/png/17839680241551942828-512.png">
   <img align="center" height="50" width="50" src="https://img.icons8.com/color/48/000000/docker.png">
-  <!-- <img align="center" height="50" width="50" src=""> -->
+  <img align="center" height="50" width="50" src="https://camo.githubusercontent.com/62089edec0ee40bb26b3bf5f973b14d7f8e4b4e942f115cde5b9a5f9c0ca3382/687474703a2f2f7365656b6c6f676f2e636f6d2f696d616765732f4a2f6a6573742d6c6f676f2d463939303145424246372d7365656b6c6f676f2e636f6d2e706e67">
   <img align="center" height="50" width="50" src="https://img.icons8.com/color/48/000000/git.png">
 </div>
 
