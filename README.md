@@ -1,8 +1,10 @@
 # Hey! Eu sou o [Asafe Dainez](https://www.linkedin.com/in/asafedainez/)
 
-
-- :books: Estou estudando desenvolvimento web na [Trybe](https://www.betrybe.com/) :rocket:
-- :mortar_board: Sou formado em Engenharia da Computação
+- Sou formado em Engenharia da Computação
+- Desafios me movimentam
+- Curto demais de esportes, mas em especial ciclismo, F1 e vôlei
+- Gosto demais de cultura pop e filmes de ficção
+- Qualquer dúvida me chame e a gente conversa!
 
 ##
 
@@ -16,16 +18,27 @@
   <img align="center" height="50" width="50" src="https://img.icons8.com/color/48/000000/console.png">
   <img align="center" height="50" width="50" src="https://img.icons8.com/color/48/000000/html-5--v1.png">
   <img align="center" height="50" width="50" src="https://img.icons8.com/color/48/000000/css3.png">
-  <img align="center" height="50" width="50" src="https://img.icons8.com/color/48/000000/javascript--v1.png">
-  <img align="center" height="50" width="50" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png">
-  <img align="center" height="50" width="50" src="https://img.icons8.com/color/48/000000/git.png">
   <img align="center" height="50" width="50" src="https://img.icons8.com/color/344/react-native.png">
   <img align="center" height="50" width="50" src="https://img.icons8.com/color/344/redux.png">
+  <img align="center" height="50" width="50" src="https://img.icons8.com/color/48/000000/javascript--v1.png">
+  <img align="center" height="50" width="50" src="https://img.icons8.com/color/48/000000/typescript.png">
+  <img align="center" height="50" width="50" src="https://img.icons8.com/fluency/48/000000/node-js.png">
+  <img align="center" height="50" width="50" src="https://img.icons8.com/color/48/000000/c-sharp-logo-2.png">
+  <img align="center" height="50" width="50" src="https://img.icons8.com/color/48/000000/mysql-logo.png">
+  <img align="center" height="50" width="50" src="https://img.icons8.com/color/48/000000/mongodb.png">
+  <img align="center" height="50" width="50" src="https://avatars.githubusercontent.com/u/17219288?s=200&v=4">
+  <img align="center" height="50" width="50" src="https://pics.freeicons.io/uploads/icons/png/17839680241551942828-512.png">
+  <img align="center" height="50" width="50" src="https://img.icons8.com/color/48/000000/docker.png">
+  <!-- <img align="center" height="50" width="50" src=""> -->
+  <img align="center" height="50" width="50" src="https://img.icons8.com/color/48/000000/git.png">
 </div>
 
   ##
   
 <div align="center">
+  <p>
+  Entre em contato comigo:
+  </p>
   <a href="https://www.linkedin.com/in/asafedainez/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="mailto:asafe.sousa@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a> 
   <a href="mailto:asafedainez@outlook.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"></a> 
